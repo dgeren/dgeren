@@ -1,5 +1,3 @@
-#David Geren#
-
 - 👋 Hi, I’m @dgeren
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently working in JavaScript, Node.js, MongoDB
